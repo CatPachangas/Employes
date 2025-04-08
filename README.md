@@ -1,17 +1,19 @@
 # ThalesTest
-Este microservicio fue creado para darle solucion a la prueba tecnica de Thales
+This microservice has been created to get a employees list and calculate the annual salary. Implements CQRS with MediatR.
 
 ## Components
-1. [Backend] Creado en .Net 6
-2. [Employees API] Documentado con OpenApi 3, con dos endpoints (getAllEmployees, getEmployeeById) para el posterior consumo con el proyecto frontend
+1. [Backend] Created in net 6
+2. [Employees API] Documented with OpenApi 3
+3. [UnitTest] With XUnit
+
+## Technologies
+
+C#, .NetCore.
 
 # How to start
-1. Clonar el repositorio
-2. Ejecutar desde VisualStudio
-3. Consumir API http://localhost:44346
+1. Clone the repo
+2. Execute from VS
+3. Consume from http://localhost:44346
 
 ## Licence
 Sin licencia
-
-
- 
